@@ -1,9 +1,10 @@
 import React from 'react';
+import MainHeader from '../components/header-component/header-component';
 
 
 const HomePage=()=>{
     return(
-        <h1>My portfolio</h1>
+        <MainHeader />
     )
 
 }
